@@ -19,7 +19,7 @@
   ```
 
 - node.js
-  install node.js https://nodejs.org/en/download/
+  , install node.js https://nodejs.org/en/download/
 
 ### Installation
 

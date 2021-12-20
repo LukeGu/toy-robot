@@ -74,7 +74,7 @@ function moveRobot(x, y, f) {
       break;
   }
   if (isMoved) {
-    yellowLog(`The robot moves on step to ${f}.`);
+    yellowLog(`The robot moves one step ${f}.`);
     return {
       x,
       y,
